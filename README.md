@@ -4,6 +4,8 @@ sudo pip3 install --upgrade pip
 i use this order to update pip to latest.and then,pip don't find out the right path,
 sudo pip3 install /home/nvidia/tensorflow-1.3.0-cp35-cp35m-linux_aarch64.whl
 this order solves the problem.
+when you finish ./installPrerequisites.sh
+you need change the java version to 8u121.article has method.
 
 JetsonTX2上安装tensorflow的心酸史
 还是那句话，做事情得有耐心，有耐心…耐心….心……感觉像是给自己的一个心理暗示… -。-|||
